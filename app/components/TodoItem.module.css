@@ -1,0 +1,32 @@
+.todoItem {
+  display: flex;
+  background-color: rgb(255, 251, 245);
+  width: 300px;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: space-between;
+  border-width: 1px;
+  border-color: rgb(0 0 0);
+  margin-bottom: 10px;
+}
+
+.checkbox {
+  width: 20px;
+  margin-left: 10px;
+  /* background-color: aqua; */
+}
+
+.popoverBtn {
+  width: 25px;
+  margin-left: auto;
+}
+
+.textAndHeaderBlock {
+  width: 150px;
+  display: flex;
+}
+.header {
+  font-weight: 500;
+  font-size: 20px;
+  margin-top: 5px;
+}

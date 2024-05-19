@@ -1,0 +1,22 @@
+.app {
+  width: 500px;
+  height: auto;
+  border-color: black;
+  border-radius: 5px;
+  border-width: 1px;
+  box-shadow: rgb(182, 182, 182) 5px 5px;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.h1 {
+  font-size: 22px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.todolist1 {
+  display: grid;
+  justify-items: center;
+}
